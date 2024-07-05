@@ -1,6 +1,7 @@
 # pyTube
 Download Youtube Playlist
 
+# requirements:
 pip install pytube
 
 pip install ttkwidgets
