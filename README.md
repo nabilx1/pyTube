@@ -2,8 +2,11 @@
 Download Youtube Playlist
 
 pip install pytube
+
 pip install ttkwidgets
+
 pip install tk
+
 
 
 
